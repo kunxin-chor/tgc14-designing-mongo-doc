@@ -1,0 +1,30 @@
+[
+    {
+        "_id":"123456",
+        "first_name":"John",
+        "last_name":"Doe",
+        "mobile_numbers":[9919992, 9239234],
+        "address": {
+            "street":"Yishun Ring Road",
+            "floor": 13,
+            "unit": 512,
+            "postal_code": 75777
+        },
+        "date_of_birth":"2019-06-13",
+        "dentist": {
+            "_id": 454545,
+            "first_name":"Abel",
+            "last_name":"Ang"
+        }
+    },
+    {
+        "first_name":"Mary",
+        "last_name":"Sue",
+        "dentist":  {
+            "_id": 454545,
+            "first_name":"Abel",
+            "last_name": "Ang"
+        
+        }
+    }
+]

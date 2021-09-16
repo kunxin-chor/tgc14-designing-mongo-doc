@@ -1,0 +1,18 @@
+[
+    {
+        "_id": 454545,
+        "first_name":"Abel",
+        "last_name":"Ang",
+        "certificates": [],
+        "clinics":[
+            {
+                "_id":9901,
+                "address":"Yishun Ave 4"
+            },
+            {
+                "_id":9902,
+                "address":"Sunset Drive"
+            }
+        ]
+    }
+]

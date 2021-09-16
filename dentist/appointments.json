@@ -1,0 +1,22 @@
+[
+    {
+        "_id":"123456",
+        "dentist_id": {
+            "_id": 454545,
+            "first_name": "Abel",
+            "last_name":"Ang"
+            
+        },
+        "clinc":{
+            "_id": 9901,
+            "address":"Yishun Ave 4"
+        },
+        "treatment": {
+            "_id": 4351,
+            "diagnosis":"Root canal",
+            "treatment":[
+                "Painkillers", "Root Canal Operation"
+            ]
+        }
+    }
+]
